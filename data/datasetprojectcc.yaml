@@ -1,0 +1,9 @@
+train: ../images/testing
+val: ../images/training
+test: ../images/validation
+
+# number of classes
+nc: 1
+
+# class names
+names: ['nucleus']
